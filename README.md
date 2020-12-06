@@ -1,3 +1,6 @@
+# My Portfolio site used to display my Web Development Project as well as my GIS maps
+
+
 Initio - Free, multipurpose html5 template
 =============
 
